@@ -1,0 +1,7 @@
+{
+  "name": "AI 换装",
+  "description": "基于 Google Gemini Nano Banana 系列模型打造的智能虚拟换装应用。支持自定义人脸、衣物生成与高保真虚拟试穿。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
